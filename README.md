@@ -1,6 +1,6 @@
 # IS211.M11
 
-##THÔNG TIN MÔN HỌC
+## Thông tin môn học:
    **Môn học**: Cơ sở dữ liệu phân tán <br>
    **Lớp**: IS211.M11 <br>
    **Năm học**: HKI NH 2021-2022 <br>
