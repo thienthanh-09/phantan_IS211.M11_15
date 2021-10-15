@@ -1,10 +1,10 @@
 # IS211.M11 - NHÓM 15
 
 ## Thông tin môn học:
-  **Môn học**: Cơ sở dữ liệu phân tán - IS211 <br>
-  **Lớp**: IS211.M11 <br>
-  **Năm học**: HKI NH 2021-2022 <br>
-  **Giảng viên**: ThS.Thái Bảo Trân, CN.Nguyễn Minh Nhựt <br>
+  **Môn học**: *Cơ sở dữ liệu phân tán* <br>
+  **Lớp**: *IS211.M11* <br>
+  **Năm học**: *2021-2022* <br>
+  **Giảng viên**: *ThS.Thái Bảo Trân, CN.Nguyễn Minh Nhựt* <br>
    
 ## Thành viên:
 STT |   MSSV   |      Họ và tên      | 
